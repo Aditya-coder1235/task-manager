@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.fc {
+  background: white;
+}
+
+.fc-daygrid-day {
+  padding: 6px;
+}
+
+.fc-event {
+  border-radius: 6px;
+}
